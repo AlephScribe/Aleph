@@ -1,17 +1,9 @@
-KurKuMama Privacy Policy Last Updated: September 28, 2025 This Privacy Policy describes how KurKuMama ("we," "us," or "our") handles information when you use our macOS application. Your privacy and the security of your data are critically important to us.
+KurKuMama Privacy Policy Last Updated: September 28, 2025 This Privacy Policy describes how KurKuMama ("we," "us," or "our") handles information when you use our KurKuMama data extraction application. Your privacy and the security of your data are critically important to us.
 
 In Short To perform its core function, KurKuMama sends the content of your selected PDF documents directly from your computer to third-party AI services for processing. KurKuMama operates without its own servers, meaning we never receive, see, or store your document content. The application acts as a secure bridge between your files and the AI model you select. Your personal API keys are stored securely on your computer in the macOS Keychain.
 
 1. Data Processing and Third-Party Services a. PDF Document Content: The primary function of KurKuMama is to extract data from PDF documents using Large Language Models (LLMs). To achieve this, the application reads the text content (such as paragraphs, tables, and lists) from the documents you select on your device. This content is then transmitted over the internet directly from the application to the third-party AI provider associated with the model you choose in the app's settings.
-b. Third-Party AI Providers: We integrate with various external AI providers to offer a wide range of data extraction capabilities. These providers may include but are not limited to:
-
-OpenAI
-
-Google
-
-Anthropic
-
-Mistral AI
+b. Third-Party AI Providers: We integrate with various external AI providers to offer a wide range of data extraction capabilities. These providers may include but are not limited to: OpenAI, Anthropic, Mistral AI, Google, etcetera.
 
 Other providers available through LiteLLM
 We do not control the data privacy practices of these third parties, as their services operate independently. Because KurKuMama does not have a server, your data is never routed through or stored by us. We strongly advise you to review the privacy policies of the respective AI providers before processing documents containing sensitive information, as their data retention and usage policies are outside of our control.
